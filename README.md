@@ -99,7 +99,10 @@ If you're building something in pharma, life-sciences, or manufacturing — let'
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahyar-blue?logo=linkedin)](https://www.linkedin.com/in/mahyarabidi)
-[![Mahyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahyari88)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Mahyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahyari88)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=ambient_gradient )
 
 ---
 
