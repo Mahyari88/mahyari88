@@ -98,9 +98,8 @@ If you're building something in pharma, life-sciences, or manufacturing — let'
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahyar-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-@mahyari88-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahyari88\&layout=compact)](https://github.com/mahyari88)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahyar-blue?logo=linkedin)](https://www.linkedin.com/in/mahyarabidi)
+[![Mahyar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahyari88)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
